@@ -24,7 +24,7 @@ Taktaka aims to solve this problem by providing a platform that connects custome
 
 ## 📎🎓 Instructor
 
-Eng. Susan Farhat
+Dr. Susan Mohamed Farhat
 
 ---
 
